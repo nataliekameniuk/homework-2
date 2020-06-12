@@ -1,0 +1,30 @@
+
+        h1 {
+            font-weight: bold;
+            color: white;
+            background-color: #a52a2a;
+            text-align: center;
+        }
+        .border
+        { 
+            border: 3px dotted black; }
+
+        p {
+            font-size: 18px;
+    
+        }
+
+        footer {
+            font-size: 20px;
+            color: white;
+            background-color: black;
+            text-align: center;
+        }
+    .center
+    {
+        text-align: center;  
+    }
+    .textcolor
+    {
+        color: blue
+    }
